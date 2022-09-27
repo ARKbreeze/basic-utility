@@ -1,3 +1,3 @@
-import basicUtilty from './dist/index.es.js';
-console.log('add', basicUtilty.add(1, 2));
-console.log('increment', basicUtilty.increment(3));
+console.log(basicUtility);
+console.log('add', basicUtility.add(1, 2));
+console.log('increment', basicUtility.increment(3));

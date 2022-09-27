@@ -13,7 +13,7 @@ export default {
     {
       file: pkg.main,
       format: 'umd',
-      name: 'baseUtility'
+      name: 'basicUtility'
     },
     {
       file: pkg.module,

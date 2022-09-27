@@ -1,1 +1,1 @@
-function n(n,r){return n+r}function r(n){return n+1}var t={add:n,increment:r};export{n as add,t as default,r as increment};
+var n={add:function(n,r){return n+r},increment:function(n){return n+1}};export{n as default};

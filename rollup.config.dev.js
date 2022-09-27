@@ -13,7 +13,7 @@ export default {
     {
       file: `./example/${pkg.main}`,
       format: 'umd',
-      name: 'baseUtility',
+      name: 'basicUtility',
       sourcemap: true
     },
     {
